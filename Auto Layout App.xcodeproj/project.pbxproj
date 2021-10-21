@@ -16,6 +16,7 @@
 		0E6EB9C12721E26A004EC508 /* Auto_Layout_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6EB9C02721E26A004EC508 /* Auto_Layout_AppTests.swift */; };
 		0E6EB9CB2721E26A004EC508 /* Auto_Layout_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6EB9CA2721E26A004EC508 /* Auto_Layout_AppUITests.swift */; };
 		0E6EB9CD2721E26A004EC508 /* Auto_Layout_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E6EB9CC2721E26A004EC508 /* Auto_Layout_AppUITestsLaunchTests.swift */; };
+		0E6EB9DA27220150004EC508 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0E6EB9D92722014F004EC508 /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0E6EB9C62721E26A004EC508 /* Auto Layout AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Auto Layout AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E6EB9CA2721E26A004EC508 /* Auto_Layout_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Auto_Layout_AppUITests.swift; sourceTree = "<group>"; };
 		0E6EB9CC2721E26A004EC508 /* Auto_Layout_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Auto_Layout_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0E6EB9D92722014F004EC508 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = alarm_sound.mp3; path = ../../../../../Downloads/alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				0E6EB9AB2721E269004EC508 /* SceneDelegate.swift */,
 				0E6EB9AD2721E269004EC508 /* ViewController.swift */,
 				0E6EB9AF2721E269004EC508 /* Main.storyboard */,
+				0E6EB9D92722014F004EC508 /* alarm_sound.mp3 */,
 				0E6EB9B22721E26A004EC508 /* Assets.xcassets */,
 				0E6EB9B42721E26A004EC508 /* LaunchScreen.storyboard */,
 				0E6EB9B72721E26A004EC508 /* Info.plist */,
@@ -233,6 +236,7 @@
 			files = (
 				0E6EB9B62721E26A004EC508 /* LaunchScreen.storyboard in Resources */,
 				0E6EB9B32721E26A004EC508 /* Assets.xcassets in Resources */,
+				0E6EB9DA27220150004EC508 /* alarm_sound.mp3 in Resources */,
 				0E6EB9B12721E269004EC508 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
